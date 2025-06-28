@@ -16,23 +16,23 @@ This project aims to predict house prices using supervised machine learning tech
 The dataset contains the following features:
 
 Feature	Description
-area_type : 	Type of area (e.g., Super built-up, Plot area, etc.)
+area_type   : 	Type of area (e.g., Super built-up, Plot area, etc.)
 
-availability :	Property availability status (e.g., Ready To Move, Date)
+availability   :	Property availability status (e.g., Ready To Move, Date)
 
-location	: Location or neighborhood of the property
+location	 : Location or neighborhood of the property
 
-size : 	Number of bedrooms (e.g., 2 BHK, 4 Bedroom)
+size   : 	Number of bedrooms (e.g., 2 BHK, 4 Bedroom)
 
-society	: Name of the housing society
+society	  : Name of the housing society
 
-total_sqft	: Total area of the property in square feet
+total_sqft  	: Total area of the property in square feet
 
-bath	: Number of bathrooms
+bath	  : Number of bathrooms
 
-balcony :	Number of balconies
+balcony   :	Number of balconies
 
-price	: Selling price of the property (in lakhs)
+price	  : Selling price of the property (in lakhs)
 
 
 ## 🧪 Workflow Summary
